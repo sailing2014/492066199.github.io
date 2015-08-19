@@ -1,29 +1,13 @@
 ---
-title: "Autm-rb: A Bootstrap-Based Jekyll Theme"
-tags: [Autm-rb, download]
+title: "感悟"
+tags: [feeling]
 ---
 
 ![Autumn-rb](http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10561076_278209769029508_1423568667_n.jpg)
 
-## Introduction
+## 世间美好总让人着急
 
-Autm-rb is a simple and beautiful [Jekyll](http://jekyllrb.com/) theme. Partly based on "shiori" and "midnight" themes.
+顾城说：我们站着，扶着自己的门窗，门很低，但太阳是明亮的。草在结它的种子，风在摇它的叶子，我们站着，不说话，就十分美好。.
 
-## Features
-Autm-rb can be used for both portfolio and blogging.
 
-- github, stackoverflow, twitter links
-- sharebuttons: twitter, facebook, google plus
-- comments via DISQUS
-- pagination
-- tags
-- codehighlighting
-- bootstrap components
-- font awesome
-- responsive
-- embeded video support
-- cool colors
-
-<a href="https://github.com/railsr/autm-rb" target="_blank" class="btn btn-success"><i class="fa fa-github fa-lg"></i> View on GitHub</a>
-
-<p><a href="https://twitter.com/railsr7" class="twitter-follow-button" data-show-count="true" data-size="large" data-dnt="true">Follow @railsr7</a></p>
+<p><a href="http://weibo.com/u/5035740882/" class="twitter-follow-button" data-show-count="true" data-size="large" data-dnt="true">Follow @salingyang</a></p>
