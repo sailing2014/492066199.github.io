@@ -1,6 +1,6 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "www.yangsailing.com" # the base hostname & protocol for your site.
-title: "Romeo'blog"
+title: "sailingYang'blog"
 
 
 paginate: 3 #articles per page
